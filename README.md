@@ -1,7 +1,6 @@
 # Oops wrong page!
-# llama-development was renamed to llamadevelopment
 
-## please go to https://github.com/llamadevelopment to continue your journey.
+please go to https://github.com/llamadevelopment to continue your journey.
 
 <!--
 **llama-development/llama-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
